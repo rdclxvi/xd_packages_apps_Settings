@@ -203,6 +203,10 @@
     <!-- Combined signal icons in status bar -->
     <string name="combined_status_bar_signal_icons">Combined signal icons</string>
     <string name="combined_status_bar_signal_icons_summary">Enable combined signal icons in status bar.\nRequires a SystemUI restart</string>
+
+    <!-- Ripple Effect on lockscreen -->    
+    <string name="disable_fingerprint_ripple_effect_title">Disable Ripple effect</string>
+    <string name="disable_fingerprint_ripple_effect_summary">Disable ripple effect on unlock</string>
     
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
@@ -211,19 +215,14 @@
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
     <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
-
+    
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    
     <!-- Android debugging as root -->
     <string name="adb_enable_root">Rooted debugging</string>
     <string name="adb_enable_summary_root">Allow running Android debugging as root</string>
-    
-    <!-- Fullscreen gestures -->
-    <string name="other_controls_title">Other controls</string>
-    <string name="fullscreen_gestures_title">Fullscreen gestures</string>
-    <string name="fullscreen_gestures_summary">Hide navbar pill and keyboard space</string>
-    
-    <!-- Ripple Effect on lockscreen -->    
-    <string name="disable_fingerprint_ripple_effect_title">Disable Ripple effect</string>
-    <string name="disable_fingerprint_ripple_effect_summary">Disable ripple effect on unlock</string>
 
     <!-- Hotspot VPN -->
     <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
